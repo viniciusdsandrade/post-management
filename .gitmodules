@@ -1,0 +1,6 @@
+[submodule "post-service"]
+	path = post-service
+	url = https://github.com/viniciusdsandrade/post-service.git
+[submodule "text-processor-service"]
+	path = text-processor-service
+	url = https://github.com/viniciusdsandrade/text-processor-service.git
